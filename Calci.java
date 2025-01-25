@@ -10,8 +10,6 @@ public class Calci{
             System.out.print("Enter The Operator : \n1) Addition\n2) Subtraction\n3) Multiply\n4) Division\n5) Remainder\n6) Square Root ");
             int operator = sc.nextInt();
             float num2;
-            // System.out.print("Enter Second Number : ");
-            // float num2 = sc.nextFloat();
             switch(operator){
                 case 1: 
                     System.out.print("Enter Second Number : ");
