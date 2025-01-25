@@ -48,6 +48,11 @@ public class Calci{
 
                 case 6:
                     System.out.println(Math.sqrt(num1));
+                    break;
+
+                default:
+                    System.out.println("Invalid Operator!");
+                    break;
                     
             }
             
